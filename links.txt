@@ -35,3 +35,7 @@ https://microbit.org/
 https://erelement.com/shop/microbit-v2-go/
 
 ------
+
+https://createai.microbit.org/
+
+------
