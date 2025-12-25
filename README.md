@@ -20,4 +20,18 @@ https://www.youtube.com/watch?v=KqBvo4u0Yv0
 
 ------
 
+https://scratch.mit.edu/download/scratch-link
 
+------
+
+https://makecode.microbit.org/
+
+------
+
+https://microbit.org/
+
+------
+
+https://erelement.com/shop/microbit-v2-go/
+
+------
