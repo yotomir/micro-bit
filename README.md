@@ -39,5 +39,9 @@ https://erelement.com/shop/microbit-v2-go/
 https://createai.microbit.org/
 
 ------
+
+https://www.youtube.com/watch?v=TFGeefF82o8&list=PLlBVuTSjOrcnS-I-zERgyxHMcCRm6rvLM&index=13
+
+------
 https://github.com/yotomir/micro-bit
 ------
